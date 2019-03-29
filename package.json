@@ -1,0 +1,21 @@
+{
+  "name": "@researchgate/tooling",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "spire lint",
+    "prerelease": "yarn lint",
+    "release": "lerna publish --no-verify-access --conventional-commits --allow-branch master --yes",
+    "release-next": "yarn release --npm-tag next --no-git-tag-version --no-push"
+  },
+  "devDependencies": {
+    "@researchgate/prettier-config": "^1.0.0",
+    "lerna": "^3.13.1",
+    "spire": "^1.4.1"
+  },
+  "spire": {
+    "extends": "@researchgate/spire-config"
+  }
+}

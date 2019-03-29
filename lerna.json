@@ -1,0 +1,5 @@
+{
+  "version": "individual",
+  "useWorkspaces": true,
+  "npmClient": "yarn"
+}

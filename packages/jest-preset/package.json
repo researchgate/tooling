@@ -1,0 +1,24 @@
+{
+  "name": "@researchgate/jest-preset",
+  "version": "1.0.0",
+  "description": "Jest preset for ResearchGate's projects",
+  "author": "Sergey Bekrin <sergey@bekrin.me> (https://bekrin.me)",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "main": "./jest-preset.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "enzyme": "^3.8.0",
+    "enzyme-adapter-react-16": "^1.7.1",
+    "jest-enzyme": "^7.0.1",
+    "jest-snapshot": "^24.5.0",
+    "matchmedia-polyfill": "^0.3.1",
+    "raf": "^3.4.1",
+    "react-test-renderer": "^16.7.0"
+  },
+  "peerDependencies": {
+    "prettier": "^1.0.0"
+  }
+}

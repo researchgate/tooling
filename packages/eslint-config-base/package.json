@@ -1,0 +1,25 @@
+{
+  "name": "@researchgate/eslint-config-base",
+  "version": "5.0.1",
+  "description": "Base ESlint config for ResearchGate's projects",
+  "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "researchgate",
+    "javascript"
+  ],
+  "peerDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
+}

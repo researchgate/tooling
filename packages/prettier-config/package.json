@@ -1,0 +1,11 @@
+{
+  "name": "@researchgate/prettier-config",
+  "version": "1.0.0",
+  "description": "Spire config for ResearchGate's projects",
+  "author": "Sergey Bekrin <sergey@bekrin.me> (https://bekrin.me)",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  }
+}

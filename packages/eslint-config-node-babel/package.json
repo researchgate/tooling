@@ -1,0 +1,21 @@
+{
+  "name": "@researchgate/eslint-config-node-babel",
+  "version": "5.0.1",
+  "description": "ResearchGate's ESLint config for NodeJS with babel",
+  "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "researchgate",
+    "javascript"
+  ],
+  "dependencies": {
+    "@researchgate/eslint-config-node": "^5.0.1"
+  }
+}
