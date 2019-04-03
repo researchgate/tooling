@@ -5,6 +5,7 @@ Spire preset for ResearchGate projects.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Usage](#usage)
 - [License](#license)
 
@@ -30,4 +31,4 @@ yarn add --dev @researchgate/spire-config spire
 
 ## License
 
-MIT &copy; ResearchGate
+MIT &copy; [ResearchGate](https://github.com/researchgate)

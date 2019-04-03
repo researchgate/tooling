@@ -1,6 +1,13 @@
 language: node_js
-node_js:
-  - 10
+node_js: 10
 cache: yarn
-script:
-  - yarn release
+jobs:
+  include:
+    - stage: test
+      script: yarn lint
+    # Uncomment once all tokens are setup
+    # - stage: release
+    #   if: branch = master
+    #   script:
+    #     - echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
+    #     - yarn release

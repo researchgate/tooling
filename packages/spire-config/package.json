@@ -12,12 +12,13 @@
     "@researchgate/eslint-config-node": "^5.0.1",
     "@researchgate/eslint-config-node-babel": "^5.0.1",
     "@researchgate/eslint-config-react": "^5.0.1",
-    "@researchgate/prettier-config": "^1.0.0",
     "@researchgate/jest-preset": "^1.0.0",
+    "@researchgate/prettier-config": "^1.0.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-react": "^7.12.4",
-    "spire-plugin-yarn": "^1.4.0"
+    "spire-plugin-lerna-release": "^1.4.0",
+    "spire-plugin-yarn": "^1.7.0"
   },
   "peerDependencies": {
     "spire": "^1.3.0"
