@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/jest-preset",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Jest preset for ResearchGate's projects",
   "author": "Sergey Bekrin <sergey@bekrin.me> (https://bekrin.me)",
   "repository": "researchgate/tooling",
