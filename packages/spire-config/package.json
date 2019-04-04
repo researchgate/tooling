@@ -9,9 +9,9 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@researchgate/eslint-config-node": "^5.0.1",
-    "@researchgate/eslint-config-node-babel": "^5.0.1",
-    "@researchgate/eslint-config-react": "^5.0.1",
+    "@researchgate/eslint-config-node": "^1.0.0",
+    "@researchgate/eslint-config-node-babel": "^1.0.0",
+    "@researchgate/eslint-config-react": "^1.0.0",
     "@researchgate/jest-preset": "^1.0.0",
     "@researchgate/prettier-config": "^1.0.0",
     "eslint-plugin-import": "^2.14.0",
