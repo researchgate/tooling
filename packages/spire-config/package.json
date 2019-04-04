@@ -8,6 +8,9 @@
   "engines": {
     "node": ">=10"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@researchgate/eslint-config-node": "^1.0.0",
     "@researchgate/eslint-config-node-babel": "^1.0.0",
