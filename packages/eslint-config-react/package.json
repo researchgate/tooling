@@ -19,6 +19,7 @@
     "javascript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-base": "^1.2.0"
+    "@researchgate/eslint-config-base": "^1.2.0",
+    "eslint-plugin-react-hooks": "^1.6.0"
   }
 }

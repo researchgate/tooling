@@ -3,7 +3,7 @@
 module.exports = {
   extends: ['@researchgate/eslint-config-base', 'prettier/react'],
   parserOptions: { sourceType: 'module' },
-  plugins: ['react'],
+  plugins: ['react', 'react-hooks'],
   rules: {
     'import/no-nodejs-modules': ['error', { allow: 'events' }],
     'react/display-name': 'error',
@@ -36,6 +36,8 @@ module.exports = {
     'react/react-in-jsx-scope': 'error',
     'react/require-render-return': 'error',
     'react/self-closing-comp': 'error',
+    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/exhaustive-deps': 'warn',
   },
   env: {
     browser: true,
