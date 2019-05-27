@@ -27,7 +27,6 @@ module.exports = {
     'react/no-danger-with-children': 'error',
     'react/no-deprecated': 'error',
     'react/no-direct-mutation-state': 'error',
-    'react/no-multi-comp': 'error',
     'react/no-string-refs': 'error',
     'react/no-unescaped-entities': 'error',
     'react/no-unknown-property': 'error',
