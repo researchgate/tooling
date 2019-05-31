@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/researchgate/tooling/compare/v1.3.0...v1.3.1) (2019-05-31)
+
+### Bug Fixes
+
+- **eslint-config:** remove no-multi-comp rule
+  ([9183217](https://github.com/researchgate/tooling/commit/9183217))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [1.3.0](https://github.com/researchgate/tooling/compare/v1.2.1...v1.3.0) (2019-04-11)
 
 ### Features

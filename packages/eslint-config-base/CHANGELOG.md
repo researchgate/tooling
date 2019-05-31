@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/researchgate/tooling/compare/v1.3.0...v1.3.1) (2019-05-31)
+
+### Bug Fixes
+
+- **eslint-config:** set default env for test files
+  ([327cb6c](https://github.com/researchgate/tooling/commit/327cb6c))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # 1.2.0 (2019-04-04)
 
 ### Features
