@@ -10,12 +10,18 @@
   },
   "devDependencies": {
     "@researchgate/prettier-config": "^1.0.0",
+    "create-github-release": "^1.4.1",
     "spire": "^1.7.0"
   },
   "spire": {
     "extends": "@researchgate/spire-config",
     "plugins": [
-      "spire-plugin-lerna-release"
+      [
+        "spire-plugin-lerna-release",
+        {
+          "githubRelease": false
+        }
+      ]
     ]
   }
 }
