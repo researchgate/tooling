@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "./jest-preset.js",
   "engines": {
-    "node": ">=10"
+    "node": ">=8.6.0"
   },
   "publishConfig": {
     "access": "public"
