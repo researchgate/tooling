@@ -10,7 +10,7 @@
     "Luis Merino <luis.merino@researchgate.net>"
   ],
   "engines": {
-    "node": ">=8"
+    "node": ">=8.6.0"
   },
   "publishConfig": {
     "access": "public"
