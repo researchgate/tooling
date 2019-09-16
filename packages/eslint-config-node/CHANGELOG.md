@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node@1.4.1...@researchgate/eslint-config-node@1.5.0) (2019-09-16)
+
+### Features
+
+- Update eslint-plugin-node to v10
+  ([5fdfda1](https://github.com/researchgate/tooling/commit/5fdfda1))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.4.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node@1.4.0...@researchgate/eslint-config-node@1.4.1) (2019-09-04)
 
 ### Bug Fixes

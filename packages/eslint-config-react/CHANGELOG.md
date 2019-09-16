@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@1.4.1...@researchgate/eslint-config-react@1.5.0) (2019-09-16)
+
+### Features
+
+- Add no-console rule back for frontend code
+  ([d51621a](https://github.com/researchgate/tooling/commit/d51621a))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.4.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@1.4.0...@researchgate/eslint-config-react@1.4.1) (2019-09-04)
 
 ### Bug Fixes
