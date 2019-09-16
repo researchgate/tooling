@@ -22,6 +22,6 @@
     "@researchgate/eslint-config-base": "^1.4.0"
   },
   "peerDependencies": {
-    "eslint-plugin-node": "^9.2.0"
+    "eslint-plugin-node": "^10.0.0"
   }
 }

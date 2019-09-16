@@ -18,7 +18,7 @@
     "@researchgate/jest-preset": "^1.3.0",
     "@researchgate/prettier-config": "^1.3.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-node": "^9.0.0",
+    "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-react": "^7.12.4",
     "spire-plugin-lerna-release": "^1.4.0",
     "spire-plugin-yarn": "^1.7.0"
