@@ -10,7 +10,8 @@
         "config:base",
         "default:preserveSemverRanges",
         "default:rebaseStalePrs",
-        "schedule:nonOfficeHours"
+        "schedule:nonOfficeHours",
+        "default:maintainLockFilesMonthly"
       ],
       "postUpdateOptions": [
         "yarnDedupeHighest"
