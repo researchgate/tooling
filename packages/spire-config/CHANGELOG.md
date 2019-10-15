@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.2](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.1...@researchgate/spire-config@1.5.2) (2019-10-15)
+
+### Bug Fixes
+
+- **deps:** Add missing babel-eslint dependency
+  ([9650307](https://github.com/researchgate/tooling/commit/9650307))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.5.1](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.0...@researchgate/spire-config@1.5.1) (2019-10-15)
 
 ### Bug Fixes
