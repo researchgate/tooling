@@ -17,6 +17,7 @@
     "@researchgate/eslint-config-react": "^1.5.0",
     "@researchgate/jest-preset": "^1.3.0",
     "@researchgate/prettier-config": "^1.3.0",
+    "babel-eslint": "^10.0.3",
     "eslint": "^6.5.1",
     "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-import": "^2.14.0",
