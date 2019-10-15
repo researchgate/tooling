@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/spire-config",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Spire config for ResearchGate projects",
   "author": "Sergey Bekrin <sergey@bekrin.me> (https://bekrin.me)",
   "repository": "researchgate/tooling",

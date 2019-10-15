@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.1](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.0...@researchgate/spire-config@1.5.1) (2019-10-15)
+
+### Bug Fixes
+
+- **deps:** Add all required dependencies to spire config
+  ([a8fc3c0](https://github.com/researchgate/tooling/commit/a8fc3c0))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [1.5.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.4.1...@researchgate/spire-config@1.5.0) (2019-09-16)
 
 ### Features
