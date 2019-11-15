@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.3](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.2...@researchgate/spire-config@1.5.3) (2019-11-15)
+
+### Bug Fixes
+
+- Do not resolve the config so the spire plugin can correctly set the config in
+  pkg.json ([b2375dd](https://github.com/researchgate/tooling/commit/b2375dd))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.5.2](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.1...@researchgate/spire-config@1.5.2) (2019-10-15)
 
 ### Bug Fixes
