@@ -17,11 +17,13 @@
         "yarnDedupeHighest"
       ],
       "semanticCommits": true,
+      "semanticCommitType": "fix",
       "packageRules": [
         {
           "depTypeList": [
             "devDependencies"
           ],
+          "semanticCommitType": "chore",
           "automerge": true
         }
       ]
