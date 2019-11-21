@@ -16,6 +16,7 @@
       "postUpdateOptions": [
         "yarnDedupeHighest"
       ],
+      "semanticCommits": true,
       "packageRules": [
         {
           "depTypeList": [
