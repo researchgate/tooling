@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.5.0...@researchgate/renovate-config@1.6.0) (2019-11-21)
+
+### Features
+
+- **renovate:** Enable semanticCommits by default
+  ([619046b](https://github.com/researchgate/tooling/commit/619046b))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # 1.5.0 (2019-09-25)
 
 ### Features
