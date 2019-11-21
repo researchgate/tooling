@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.1](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.0...@researchgate/renovate-config@1.6.1) (2019-11-21)
+
+### Bug Fixes
+
+- **renovate:** Set correct type for semantic commits
+  ([d2a0bc0](https://github.com/researchgate/tooling/commit/d2a0bc0))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [1.6.0](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.5.0...@researchgate/renovate-config@1.6.0) (2019-11-21)
 
 ### Features
