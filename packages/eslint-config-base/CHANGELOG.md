@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@1.4.0...@researchgate/eslint-config-base@1.4.1) (2019-11-22)
+
+### Bug Fixes
+
+- **eslint:** Enable no-console again for all configs
+  ([58e6de3](https://github.com/researchgate/tooling/commit/58e6de3))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # 1.4.0 (2019-09-04)
 
 ### Bug Fixes
