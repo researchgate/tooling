@@ -6,7 +6,6 @@ module.exports = {
   plugins: ['react', 'react-hooks'],
   rules: {
     'import/no-nodejs-modules': ['error', { allow: 'events' }],
-    'no-console': 'error',
     'react/display-name': 'error',
     'react/jsx-boolean-value': ['error', 'always'],
     'react/jsx-handler-names': 'error',

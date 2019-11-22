@@ -58,6 +58,7 @@ module.exports = {
     'no-alert': 'error',
     'no-caller': 'error',
     'no-cond-assign': 'error',
+    'no-console': 'error',
     'no-dupe-keys': 'error',
     'no-else-return': 'error',
     'no-eval': 'error',
