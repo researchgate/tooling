@@ -1,14 +1,13 @@
 'use strict';
 
 module.exports = (spire, { eslint = 'react' } = {}) => {
-  process.env.RG_ESLINT_PRESET = eslint;
   return {
     extends: [
       [
         'spire-config-default',
         {
           prettier: '@researchgate/prettier-config',
-          eslint: require.resolve('./eslint'),
+          eslint: require.resolve(`./eslint/${eslint}`),
           jest: require.resolve('@researchgate/jest-preset'),
         },
       ],
