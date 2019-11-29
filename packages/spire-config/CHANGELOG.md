@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.4...@researchgate/spire-config@2.0.0) (2019-11-29)
+
+### Bug Fixes
+
+- **spire-config:** Allow better integrations in IDEs
+  ([8a31e95](https://github.com/researchgate/tooling/commit/8a31e95))
+
+### BREAKING CHANGES
+
+- **spire-config:** `@researchgate/spire-config/eslint` does not exist anymore.
+  Instead choose one of
+  `@researchgate/spire-config/eslint/{react,node,node-babel}`
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.5.4](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.3...@researchgate/spire-config@1.5.4) (2019-11-22)
 
 **Note:** Version bump only for package @researchgate/spire-config
