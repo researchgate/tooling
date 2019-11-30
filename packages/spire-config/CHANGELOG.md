@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@2.0.0...@researchgate/spire-config@2.1.0) (2019-11-30)
+
+### Features
+
+- **spire:** Add react-typescript eslint config
+  ([9146bf7](https://github.com/researchgate/tooling/commit/9146bf7))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@1.5.4...@researchgate/spire-config@2.0.0) (2019-11-29)
 
 ### Bug Fixes

@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/eslint-config-node",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "ResearchGate's ESLint config for NodeJS",
   "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
   "repository": "researchgate/tooling",
@@ -19,7 +19,7 @@
     "javascript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-base": "^1.4.1"
+    "@researchgate/eslint-config-base": "^1.4.2"
   },
   "peerDependencies": {
     "eslint-plugin-node": "^10.0.0"
