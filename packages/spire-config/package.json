@@ -15,6 +15,7 @@
     "@researchgate/eslint-config-node": "^1.5.1",
     "@researchgate/eslint-config-node-babel": "^1.4.3",
     "@researchgate/eslint-config-react": "^1.5.1",
+    "@researchgate/eslint-config-react-typescript": "^1.5.1",
     "@researchgate/jest-preset": "^1.3.0",
     "@researchgate/prettier-config": "^1.3.0",
     "babel-eslint": "^10.0.3",
