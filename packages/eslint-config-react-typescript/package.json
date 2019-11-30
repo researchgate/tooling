@@ -1,0 +1,25 @@
+{
+  "name": "@researchgate/eslint-config-react-typescript",
+  "version": "1.5.1",
+  "description": "ResearchGate's ESLint config for React with Typescript",
+  "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.6.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "researchgate",
+    "typescript"
+  ],
+  "dependencies": {
+    "@researchgate/eslint-config-react": "^1.5.1",
+    "@researchgate/eslint-settings-typescript": "^1.5.1"
+  }
+}

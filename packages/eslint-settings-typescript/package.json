@@ -1,0 +1,20 @@
+{
+  "name": "@researchgate/eslint-settings-typescript",
+  "version": "1.5.1",
+  "description": "ResearchGate's ESLint settings for Typescript",
+  "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.6.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "researchgate",
+    "typescript"
+  ]
+}
