@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.2](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.1...@researchgate/renovate-config@1.6.2) (2019-12-10)
+
+### Bug Fixes
+
+- **renovate:** Ensure lock file maintenance by default is chore
+  ([fca006b](https://github.com/researchgate/tooling/commit/fca006b))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.1](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.0...@researchgate/renovate-config@1.6.1) (2019-11-21)
 
 ### Bug Fixes
