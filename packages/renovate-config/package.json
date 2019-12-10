@@ -10,9 +10,13 @@
         "config:base",
         "default:preserveSemverRanges",
         "default:rebaseStalePrs",
-        "schedule:nonOfficeHours",
-        "default:maintainLockFilesMonthly"
+        "schedule:nonOfficeHours"
       ],
+      "lockFileMaintenance": {
+        "enabled": true,
+        "extends": "schedule:monthly",
+        "semanticCommitType": "chore"
+      },
       "postUpdateOptions": [
         "yarnDedupeHighest"
       ],
