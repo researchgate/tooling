@@ -5,7 +5,7 @@ module.exports = {
   parserOptions: { sourceType: 'module' },
   plugins: ['react', 'react-hooks'],
   rules: {
-    'import/no-nodejs-modules': ['error', { allow: 'events' }],
+    'import/no-nodejs-modules': ['error', { allow: ['events'] }],
     'react/display-name': 'error',
     'react/jsx-boolean-value': ['error', 'always'],
     'react/jsx-handler-names': 'error',
