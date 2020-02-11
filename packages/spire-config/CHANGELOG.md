@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@2.1.0...@researchgate/spire-config@2.1.1) (2020-02-11)
+
+**Note:** Version bump only for package @researchgate/spire-config
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [2.1.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@2.0.0...@researchgate/spire-config@2.1.0) (2019-11-30)
 
 ### Features
