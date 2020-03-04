@@ -8,14 +8,13 @@
     "default": {
       "extends": [
         "config:base",
-        "default:preserveSemverRanges",
-        "default:rebaseStalePrs",
-        "schedule:nonOfficeHours"
+        "default:rebaseStalePrs"
       ],
       "lockFileMaintenance": {
         "enabled": true,
         "extends": "schedule:monthly",
-        "semanticCommitType": "chore"
+        "semanticCommitType": "chore",
+        "automerge": true
       },
       "postUpdateOptions": [
         "yarnDedupeHighest"
