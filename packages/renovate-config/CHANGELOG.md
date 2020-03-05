@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.4](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.3...@researchgate/renovate-config@1.6.4) (2020-03-05)
+
+### Bug Fixes
+
+- Correctly pin only dev dependencies and disable php
+  ([e4bb1c5](https://github.com/researchgate/tooling/commit/e4bb1c5))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.3](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.2...@researchgate/renovate-config@1.6.3) (2020-03-05)
 
 **Note:** Version bump only for package @researchgate/renovate-config

@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/renovate-config",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "publishConfig": {
     "access": "public"
   },
