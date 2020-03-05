@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.3](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.2...@researchgate/renovate-config@1.6.3) (2020-03-05)
+
+**Note:** Version bump only for package @researchgate/renovate-config
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.2](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.1...@researchgate/renovate-config@1.6.2) (2019-12-10)
 
 ### Bug Fixes
