@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@researchgate/prettier-config": "^1.2.0",
-    "spire": "^1.7.2"
+    "spire": "1.7.2"
   },
   "spire": {
     "extends": "@researchgate/spire-config",
