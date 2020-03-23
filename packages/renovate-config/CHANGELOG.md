@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.6](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.5...@researchgate/renovate-config@1.6.6) (2020-03-23)
+
+### Bug Fixes
+
+- **renovate:** Have two more configs for libs and projects
+  ([914d55c](https://github.com/researchgate/tooling/commit/914d55cf78997952c57da342a4b747cd7835d998))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.5](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.4...@researchgate/renovate-config@1.6.5) (2020-03-23)
 
 ### Bug Fixes
