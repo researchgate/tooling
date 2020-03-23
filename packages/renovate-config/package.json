@@ -7,8 +7,7 @@
   "renovate-config": {
     "default": {
       "extends": [
-        "config:base",
-        "default:rebaseStalePrs"
+        "config:base"
       ],
       "lockFileMaintenance": {
         "enabled": true,
