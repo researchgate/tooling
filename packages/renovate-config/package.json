@@ -41,7 +41,7 @@
         }
       ]
     },
-    "project": {
+    "app": {
       "extends": [
         "@researchgate"
       ],
