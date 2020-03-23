@@ -40,6 +40,18 @@
           "rangeStrategy": "widen"
         }
       ]
+    },
+    "project": {
+      "extends": [
+        "@researchgate"
+      ],
+      "rangeStrategy": "pin"
+    },
+    "lib": {
+      "extends": [
+        "@researchgate"
+      ],
+      "rangeStrategy": "replace"
     }
   }
 }
