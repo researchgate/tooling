@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.5](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node-babel@1.4.4...@researchgate/eslint-config-node-babel@1.4.5) (2020-03-23)
+
+**Note:** Version bump only for package @researchgate/eslint-config-node-babel
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.4.4](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node-babel@1.4.3...@researchgate/eslint-config-node-babel@1.4.4) (2019-11-30)
 
 **Note:** Version bump only for package @researchgate/eslint-config-node-babel

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/researchgate/tooling/compare/@researchgate/jest-preset@1.3.0...@researchgate/jest-preset@1.3.1) (2020-03-23)
+
+### Bug Fixes
+
+- **deps:** update dependency jest-snapshot to v25
+  ([e3fd956](https://github.com/researchgate/tooling/commit/e3fd956))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # 1.3.0 (2019-09-04)
 
 ### Bug Fixes

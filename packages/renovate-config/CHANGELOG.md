@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.5](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.4...@researchgate/renovate-config@1.6.5) (2020-03-23)
+
+### Bug Fixes
+
+- **renovate:** Let renovate-bot decide itself when to rebase
+  ([560cf2f](https://github.com/researchgate/tooling/commit/560cf2f))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.4](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.3...@researchgate/renovate-config@1.6.4) (2020-03-05)
 
 ### Bug Fixes

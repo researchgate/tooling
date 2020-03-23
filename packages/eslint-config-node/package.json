@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/eslint-config-node",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "ResearchGate's ESLint config for NodeJS",
   "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
   "repository": "researchgate/tooling",
