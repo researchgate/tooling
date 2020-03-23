@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.7](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.6...@researchgate/renovate-config@1.6.7) (2020-03-23)
+
+### Bug Fixes
+
+- **renovate:** Rename project to app
+  ([e15c66d](https://github.com/researchgate/tooling/commit/e15c66d309364e391beafd3565ae0f157d54a59b))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.6](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.5...@researchgate/renovate-config@1.6.6) (2020-03-23)
 
 ### Bug Fixes
