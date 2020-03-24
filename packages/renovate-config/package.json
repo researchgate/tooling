@@ -30,8 +30,17 @@
             "devDependencies"
           ],
           "semanticCommitType": "chore",
-          "automerge": true,
           "rangeStrategy": "pin"
+        },
+        {
+          "depTypeList": [
+            "devDependencies"
+          ],
+          "updateTypes": [
+            "minor",
+            "patch"
+          ],
+          "automerge": true
         },
         {
           "depTypeList": [
