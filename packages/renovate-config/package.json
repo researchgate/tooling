@@ -1,6 +1,7 @@
 {
   "name": "@researchgate/renovate-config",
   "version": "1.6.8",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
