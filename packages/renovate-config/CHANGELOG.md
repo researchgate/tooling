@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.9](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.8...@researchgate/renovate-config@1.6.9) (2020-03-24)
+
+### Bug Fixes
+
+- **license:** Add license to packages
+  ([00893c1](https://github.com/researchgate/tooling/commit/00893c11894e5b8a05c4d41c08c16cfe483b279b))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.8](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.7...@researchgate/renovate-config@1.6.8) (2020-03-24)
 
 ### Bug Fixes

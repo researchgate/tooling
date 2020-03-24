@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.3](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@1.4.2...@researchgate/eslint-config-base@1.4.3) (2020-03-24)
+
+**Note:** Version bump only for package @researchgate/eslint-config-base
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.4.2](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@1.4.1...@researchgate/eslint-config-base@1.4.2) (2019-11-30)
 
 **Note:** Version bump only for package @researchgate/eslint-config-base

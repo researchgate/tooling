@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/spire-config",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "description": "Spire config for ResearchGate projects",
   "author": "Sergey Bekrin <sergey@bekrin.me> (https://bekrin.me)",
   "repository": "researchgate/tooling",
@@ -12,12 +12,12 @@
     "access": "public"
   },
   "dependencies": {
-    "@researchgate/eslint-config-node": "^1.5.3",
-    "@researchgate/eslint-config-node-babel": "^1.4.5",
-    "@researchgate/eslint-config-react": "^1.5.3",
-    "@researchgate/eslint-config-react-typescript": "^1.6.1",
-    "@researchgate/jest-preset": "^1.3.1",
-    "@researchgate/prettier-config": "^1.3.0",
+    "@researchgate/eslint-config-node": "^1.5.4",
+    "@researchgate/eslint-config-node-babel": "^1.4.6",
+    "@researchgate/eslint-config-react": "^1.5.4",
+    "@researchgate/eslint-config-react-typescript": "^1.6.2",
+    "@researchgate/jest-preset": "^1.3.2",
+    "@researchgate/prettier-config": "^1.3.1",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.5.1",
     "eslint-config-prettier": "^6.4.0",
