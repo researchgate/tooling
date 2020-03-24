@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-  extends: `@researchgate/eslint-config-ndoe-babel`,
+  extends: `@researchgate/eslint-config-node-babel`,
   parser: 'babel-eslint',
 };
