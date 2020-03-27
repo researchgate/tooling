@@ -22,7 +22,7 @@
     "react-test-renderer": "^16.7.0"
   },
   "peerDependencies": {
-    "prettier": "^1.0.0",
+    "prettier": "^2.0.0",
     "spire-plugin-jest": "^2.0.0"
   }
 }
