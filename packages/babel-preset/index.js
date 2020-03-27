@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = function(context, options = {}) {
+module.exports = function (context, options = {}) {
   const env = process.env.BABEL_ENV || process.env.NODE_ENV;
   if (env !== 'development' && env !== 'test' && env !== 'production') {
     throw new Error(
