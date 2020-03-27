@@ -26,7 +26,7 @@
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-react-hooks": "^3.0.0",
-    "prettier": "^1.18.2",
+    "prettier": "^2.0.0",
     "spire-plugin-jest": "^1.7.2",
     "spire-plugin-lerna-release": "^1.4.0",
     "spire-plugin-yarn": "^1.7.0"
