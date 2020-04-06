@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.10](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.9...@researchgate/renovate-config@1.6.10) (2020-04-06)
+
+### Bug Fixes
+
+- **renovate:** Disable updates for engines
+  ([3bd953c](https://github.com/researchgate/tooling/commit/3bd953c99bbf5fbab26af801248f5f4de7b4f7ca))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.9](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.8...@researchgate/renovate-config@1.6.9) (2020-03-24)
 
 ### Bug Fixes

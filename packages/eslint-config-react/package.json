@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/eslint-config-react",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "ResearchGate's ESLint config for React",
   "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
   "repository": "researchgate/tooling",
