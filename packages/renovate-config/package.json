@@ -25,6 +25,9 @@
       "php": {
         "enabled": false
       },
+      "engines": {
+        "enabled": false
+      },
       "packageRules": [
         {
           "depTypeList": [
