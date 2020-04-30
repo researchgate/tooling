@@ -18,7 +18,7 @@
       [
         "spire-plugin-lerna-release",
         {
-          "githubRelease": true
+          "createRelease": "github"
         }
       ]
     ]

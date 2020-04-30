@@ -7,8 +7,8 @@ module.exports = (spire, { eslint = 'react' } = {}) => {
         'spire-config-default',
         {
           prettier: '@researchgate/prettier-config',
-          eslint: require.resolve(`./eslint/${eslint}`),
-          jest: require.resolve('@researchgate/jest-preset'),
+          eslint: `@researchgate/spire-config/eslint/${eslint}`,
+          jest: '@researchgate/jest-preset',
         },
       ],
     ],
