@@ -28,7 +28,7 @@
     "eslint-plugin-react-hooks": "^3.0.0",
     "prettier": "^1.18.2",
     "spire-plugin-jest": "^1.7.2",
-    "spire-plugin-lerna-release": "^1.4.0",
+    "spire-plugin-lerna-release": "^2.0.0",
     "spire-plugin-yarn": "^1.7.0"
   },
   "peerDependencies": {
