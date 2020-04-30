@@ -29,7 +29,7 @@
     "prettier": "^1.18.2",
     "spire-plugin-jest": "^1.7.2",
     "spire-plugin-lerna-release": "^1.4.0",
-    "spire-plugin-yarn": "^1.7.0"
+    "spire-plugin-yarn": "^2.0.0"
   },
   "peerDependencies": {
     "spire": "^1.3.0"
