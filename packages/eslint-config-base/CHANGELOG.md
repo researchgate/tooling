@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@1.4.3...@researchgate/eslint-config-base@2.0.0) (2020-04-30)
+
+### Bug Fixes
+
+- **deps:** update dependency prettier to v2
+  ([7cf2a2c](https://github.com/researchgate/tooling/commit/7cf2a2ca3c38229a8aaac23ede6d2857237f52b1))
+
+### BREAKING CHANGES
+
+- **deps:** Prettier was updated and there might be files that need reformating
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.4.3](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@1.4.2...@researchgate/eslint-config-base@1.4.3) (2020-03-24)
 
 **Note:** Version bump only for package @researchgate/eslint-config-base

@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/jest-preset@1.3.2...@researchgate/jest-preset@2.0.0) (2020-04-30)
+
+### Bug Fixes
+
+- **deps:** update dependency prettier to v2
+  ([7cf2a2c](https://github.com/researchgate/tooling/commit/7cf2a2ca3c38229a8aaac23ede6d2857237f52b1))
+- **deps:** update spire monorepo to v2
+  ([bf36623](https://github.com/researchgate/tooling/commit/bf3662366ae935f16e9715344f95353a5485d35d))
+
+### BREAKING CHANGES
+
+- **deps:** Prettier was updated and there might be files that need reformating
+- **deps:** See spire changeling
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.3.2](https://github.com/researchgate/tooling/compare/@researchgate/jest-preset@1.3.1...@researchgate/jest-preset@1.3.2) (2020-03-24)
 
 **Note:** Version bump only for package @researchgate/jest-preset

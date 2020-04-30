@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@2.1.5...@researchgate/spire-config@3.0.0) (2020-04-30)
+
+### Bug Fixes
+
+- **deps:** update dependency prettier to v2
+  ([7cf2a2c](https://github.com/researchgate/tooling/commit/7cf2a2ca3c38229a8aaac23ede6d2857237f52b1))
+- **deps:** update spire monorepo to v2
+  ([bf36623](https://github.com/researchgate/tooling/commit/bf3662366ae935f16e9715344f95353a5485d35d))
+- **spire-config:** Migrate config for spire v2
+  ([2001029](https://github.com/researchgate/tooling/commit/20010294fa2b2d2f0fdba8bdd452bf08b4abe846))
+
+### BREAKING CHANGES
+
+- **deps:** Prettier was updated and there might be files that need reformating
+- **deps:** See spire changeling
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.1.5](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@2.1.4...@researchgate/spire-config@2.1.5) (2020-04-06)
 
 ### Bug Fixes

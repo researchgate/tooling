@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@1.5.5...@researchgate/eslint-config-react@2.0.0) (2020-04-30)
+
+**Note:** Version bump only for package @researchgate/eslint-config-react
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.5.5](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@1.5.4...@researchgate/eslint-config-react@1.5.5) (2020-04-06)
 
 ### Bug Fixes
