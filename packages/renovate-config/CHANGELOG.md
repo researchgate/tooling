@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.11](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.10...@researchgate/renovate-config@1.6.11) (2020-04-30)
+
+### Bug Fixes
+
+- **renovate-config:** Add groups for spire and eslint-config
+  ([5e67932](https://github.com/researchgate/tooling/commit/5e679321209cd89f52a5f881ef8e561d0cc365e2))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.10](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.9...@researchgate/renovate-config@1.6.10) (2020-04-06)
 
 ### Bug Fixes

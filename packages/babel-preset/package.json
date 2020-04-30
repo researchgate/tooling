@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/babel-preset",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Babel preset for ResearchGate's projects",
   "repository": "researchgate/tooling",
   "license": "MIT",
