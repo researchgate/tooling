@@ -22,5 +22,6 @@
         }
       ]
     ]
-  }
+  },
+  "prettier": "@researchgate/prettier-config"
 }
