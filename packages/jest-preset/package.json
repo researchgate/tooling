@@ -23,6 +23,6 @@
   },
   "peerDependencies": {
     "prettier": "^1.0.0",
-    "spire-plugin-jest": "^1.7.0 || ^2.0.0"
+    "spire-plugin-jest": "^2.0.0"
   }
 }
