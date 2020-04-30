@@ -54,11 +54,14 @@
         },
         {
           "groupName": "spire monorepo",
-          "packageNames": [
-            "@researchgate/spire-config"
-          ],
           "sourceUrlPrefixes": [
             "https://github.com/researchgate/spire"
+          ]
+        },
+        {
+          "groupName": "spire monorepo",
+          "packageNames": [
+            "@researchgate/spire-config"
           ]
         },
         {
