@@ -51,6 +51,22 @@
             "peerDependencies"
           ],
           "rangeStrategy": "widen"
+        },
+        {
+          "groupName": "spire monorepo",
+          "packageNames": [
+            "@researchgate/spire-config"
+          ],
+          "sourceUrlPrefixes": [
+            "https://github.com/researchgate/spire"
+          ]
+        },
+        {
+          "groupName": "eslint config monorepo",
+          "packagePatterns": [
+            "^@researchgate/eslint-config",
+            "^@researchgate/eslint-settings"
+          ]
         }
       ]
     },
