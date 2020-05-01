@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@3.0.0...@researchgate/spire-config@4.0.0) (2020-05-01)
+
+### Features
+
+- **spire-config:** Add option to specify jest preset to use
+  ([ab2951c](https://github.com/researchgate/tooling/commit/ab2951c12396f52955e1249708811bcd88869361))
+
+### BREAKING CHANGES
+
+- **spire-config:** spire-plugin-lerna-release is not a dependency anymore of
+  the spire-config
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [3.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@2.1.5...@researchgate/spire-config@3.0.0) (2020-04-30)
 
 ### Bug Fixes
