@@ -2,7 +2,7 @@
 
 const { toMatchSnapshot } = require('jest-snapshot');
 
-// Increate default timeout to 10s
+// Increase default timeout to 10s
 jest.setTimeout(10e3);
 
 // Avoid loading web-specific deps in non-jsdom env
