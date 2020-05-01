@@ -11,7 +11,7 @@
   "devDependencies": {
     "@researchgate/prettier-config": "^1.2.0",
     "spire": "2.1.0",
-    "spire-plugin-lerna-release": "^2.0.2"
+    "spire-plugin-lerna-release": "2.0.2"
   },
   "spire": {
     "extends": "@researchgate/spire-config",
