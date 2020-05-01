@@ -8750,7 +8750,7 @@ spire-plugin-jest@^2.0.2:
     execa "^4.0.0"
     jest "^25.0.0"
 
-spire-plugin-lerna-release@^2.0.2:
+spire-plugin-lerna-release@2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/spire-plugin-lerna-release/-/spire-plugin-lerna-release-2.0.2.tgz#70c899f4430fc1fb6d14c93c118c22c8b6378b89"
   integrity sha512-lCw0AYoQ6xrelIhfchN4nvN9zXsXttukyHuDIFMe2fqBuJO/8qvJylXv4Fs6O2Eyz4DjZfxdIsIE/B5kbkGo7A==
