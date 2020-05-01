@@ -1,0 +1,19 @@
+{
+  "name": "@researchgate/jest-preset-base",
+  "version": "0.0.0",
+  "description": "Jest preset for ResearchGate's projects",
+  "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "main": "./jest-preset.js",
+  "engines": {
+    "node": ">=10.18.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "spire-plugin-jest": "^2.0.0"
+  }
+}
