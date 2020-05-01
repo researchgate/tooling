@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = (spire, { eslint = 'react' } = {}) => {
+module.exports = (spire, { eslint = 'react', jest = 'react' } = {}) => {
   return {
     extends: [
       [
@@ -8,7 +8,7 @@ module.exports = (spire, { eslint = 'react' } = {}) => {
         {
           prettier: '@researchgate/prettier-config',
           eslint: `@researchgate/spire-config/eslint/${eslint}`,
-          jest: '@researchgate/jest-preset',
+          jest: `@researchgate/jest-preset-${jest}`,
         },
       ],
     ],
