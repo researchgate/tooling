@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.13](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.12...@researchgate/renovate-config@1.6.13) (2020-05-02)
+
+### Bug Fixes
+
+- **renovate-config:** Add correct timezone for schedules
+  ([ee3a03f](https://github.com/researchgate/tooling/commit/ee3a03fbf4f7c8394e2533e6d0ee683533ee410e))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.12](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.11...@researchgate/renovate-config@1.6.12) (2020-04-30)
 
 ### Bug Fixes
