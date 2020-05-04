@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@2.0.0...@researchgate/eslint-config-react@2.0.1) (2020-05-04)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-plugin-react-hooks to v4
+  ([4b05261](https://github.com/researchgate/tooling/commit/4b0526116007f78a565bba9da08a2ab8589c1830))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@1.5.5...@researchgate/eslint-config-react@2.0.0) (2020-04-30)
 
 **Note:** Version bump only for package @researchgate/eslint-config-react
