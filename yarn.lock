@@ -8804,10 +8804,10 @@ spire-plugin-yarn@^2.0.0:
     use-yarn "^2.2.0"
     yarn-deduplicate "^2.0.0"
 
-spire@2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/spire/-/spire-2.1.2.tgz#d63697b4cac0eeec4bc351c84ed03cebb8c07675"
-  integrity sha512-Z3kkevszja4/JDn/FV/8q3tOrHXvEvfvxLM9lp4D0djHJ7mDTvQCqi45Dau4adylTg+gnA33U1dMaPLHs/N3WQ==
+spire@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/spire/-/spire-2.1.4.tgz#6b5b1334028637b18164620f3bef4639fbf1c65f"
+  integrity sha512-46hZjNLS7+oueHekxKKcxL+2ZnrV/Pp9EzZNMhW0JtImNN8kI18/o218Gl+P1RT5PCpkusdjW+uZCUqO16wkow==
   dependencies:
     cosmiconfig "^6.0.0"
     detect-indent "^6.0.0"
