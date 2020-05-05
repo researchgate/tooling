@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/researchgate/tooling/compare/@researchgate/jest-preset-react@1.0.0...@researchgate/jest-preset-react@1.0.1) (2020-05-05)
+
+### Bug Fixes
+
+- **deps:** update dependency jest-snapshot to v26
+  ([cf5e44d](https://github.com/researchgate/tooling/commit/cf5e44d9f3e44cb6d927e590fada60c88be42fbb))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # 1.0.0 (2020-05-01)
 
 ### Features
