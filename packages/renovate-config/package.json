@@ -23,6 +23,7 @@
       "semanticCommits": true,
       "semanticCommitType": "fix",
       "rangeStrategy": "replace",
+      "automergeType": "branch",
       "php": {
         "enabled": false
       },
