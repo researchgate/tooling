@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.13...@researchgate/renovate-config@1.7.0) (2020-05-07)
+
+### Features
+
+- Enable automergeType branch by default
+  ([0bc5c66](https://github.com/researchgate/tooling/commit/0bc5c6619b4b4b6ede0443ddf3ef35f080c4ec3b))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.6.13](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.12...@researchgate/renovate-config@1.6.13) (2020-05-02)
 
 ### Bug Fixes
