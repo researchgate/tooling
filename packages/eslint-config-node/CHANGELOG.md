@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node@2.0.0...@researchgate/eslint-config-node@2.0.1) (2020-06-11)
+
+**Note:** Version bump only for package @researchgate/eslint-config-node
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node@1.5.4...@researchgate/eslint-config-node@2.0.0) (2020-04-30)
 
 **Note:** Version bump only for package @researchgate/eslint-config-node

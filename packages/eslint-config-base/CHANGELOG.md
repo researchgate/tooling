@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@2.0.0...@researchgate/eslint-config-base@2.0.1) (2020-06-11)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to v7
+  ([006086a](https://github.com/researchgate/tooling/commit/006086afb480eabfa821a915a6188cd77f411e27))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@1.4.3...@researchgate/eslint-config-base@2.0.0) (2020-04-30)
 
 ### Bug Fixes

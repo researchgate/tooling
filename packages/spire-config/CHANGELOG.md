@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.4](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@4.0.3...@researchgate/spire-config@4.0.4) (2020-06-11)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint to v7
+  ([006086a](https://github.com/researchgate/tooling/commit/006086afb480eabfa821a915a6188cd77f411e27))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [4.0.3](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@4.0.2...@researchgate/spire-config@4.0.3) (2020-05-11)
 
 **Note:** Version bump only for package @researchgate/spire-config
