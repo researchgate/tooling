@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.3](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@2.0.2...@researchgate/eslint-config-react@2.0.3) (2020-06-11)
+
+### Bug Fixes
+
+- **eslint-config-prettier:** Add peer dependency on eslint config-prettier
+  ([82b304a](https://github.com/researchgate/tooling/commit/82b304a8a49e78d9816c8a07e4b3e5e02fb2037c))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.2](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@2.0.1...@researchgate/eslint-config-react@2.0.2) (2020-06-11)
 
 **Note:** Version bump only for package @researchgate/eslint-config-react
