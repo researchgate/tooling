@@ -14,6 +14,7 @@
   "dependencies": {
     "@researchgate/eslint-config-node": "^2.0.1",
     "@researchgate/eslint-config-node-babel": "^2.0.1",
+    "@researchgate/eslint-config-node-typescript": "^1.1.0",
     "@researchgate/eslint-config-react": "^2.0.2",
     "@researchgate/eslint-config-react-typescript": "^2.0.2",
     "@researchgate/jest-preset-react": "^1.0.1",
