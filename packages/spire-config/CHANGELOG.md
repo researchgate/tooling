@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@4.1.1...@researchgate/spire-config@5.0.0) (2020-07-28)
+
+### Features
+
+- **spire-config:** Use spire 3 only
+  ([163c623](https://github.com/researchgate/tooling/commit/163c6231533fbcfa2a2b48e4e92999eab2c27fdb))
+
+### BREAKING CHANGES
+
+- **spire-config:** Spire 3 is now required
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [4.1.1](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@4.1.0...@researchgate/spire-config@4.1.1) (2020-06-11)
 
 **Note:** Version bump only for package @researchgate/spire-config
