@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.2](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@2.0.1...@researchgate/eslint-config-base@2.0.2) (2020-07-28)
+
+### Bug Fixes
+
+- **eslint-base:** Treat typescript files always as modules
+  ([c10cfeb](https://github.com/researchgate/tooling/commit/c10cfeb7ae7afda8f0ba49b23b4fd114e2bcc2b6))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@2.0.0...@researchgate/eslint-config-base@2.0.1) (2020-06-11)
 
 ### Bug Fixes
