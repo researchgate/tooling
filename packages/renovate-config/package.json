@@ -72,6 +72,16 @@
             "^@researchgate/eslint-config",
             "^@researchgate/eslint-settings"
           ]
+        },
+        {
+          "packageNames": [
+            "node"
+          ],
+          "updateTypes": [
+            "minor",
+            "patch"
+          ],
+          "automerge": true
         }
       ]
     },
