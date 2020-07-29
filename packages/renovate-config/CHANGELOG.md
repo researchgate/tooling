@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.1](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.7.0...@researchgate/renovate-config@1.7.1) (2020-07-29)
+
+### Bug Fixes
+
+- **renovate:** Merge node minor updates automatically
+  ([4f5cd21](https://github.com/researchgate/tooling/commit/4f5cd2157e6e7ec25d169c33f76e639ac7f62e2b))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [1.7.0](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.6.13...@researchgate/renovate-config@1.7.0) (2020-05-07)
 
 ### Features
