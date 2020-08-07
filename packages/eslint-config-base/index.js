@@ -139,10 +139,5 @@ module.exports = {
         node: true,
       },
     },
-    {
-      files: ['**/*.ts', '**/*.tsx'],
-      parserOptions: { sourceType: 'module' },
-      parser: '@typescript-eslint/parser',
-    },
   ],
 };
