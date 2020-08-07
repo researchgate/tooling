@@ -19,6 +19,7 @@
     "javascript"
   ],
   "peerDependencies": {
+    "@typescript-eslint/parser": "^3.8.0",
     "eslint": "^6.3.0 || ^7.0.0",
     "eslint-config-prettier": "^6.2.0",
     "eslint-plugin-import": "^2.18.2",
