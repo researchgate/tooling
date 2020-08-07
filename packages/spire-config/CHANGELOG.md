@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.2](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.1...@researchgate/spire-config@5.0.2) (2020-08-07)
+
+### Bug Fixes
+
+- **spire:** Add typescript parser as dependency
+  ([5c128f5](https://github.com/researchgate/tooling/commit/5c128f55fc861826b0f4392f1e4a647727d998b7))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [5.0.1](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.0...@researchgate/spire-config@5.0.1) (2020-07-28)
 
 **Note:** Version bump only for package @researchgate/spire-config

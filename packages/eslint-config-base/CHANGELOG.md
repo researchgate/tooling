@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@2.0.2...@researchgate/eslint-config-base@3.0.0) (2020-08-07)
+
+### Bug Fixes
+
+- **eslint:** Add typescript parser by default
+  ([9ab3561](https://github.com/researchgate/tooling/commit/9ab356133b3069b7455be2b338172128c0a11de4))
+
+### BREAKING CHANGES
+
+- **eslint:** eslint-config-base now has a peerDependency on
+  @typescript-eslint/parser
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.2](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@2.0.1...@researchgate/eslint-config-base@2.0.2) (2020-07-28)
 
 ### Bug Fixes
