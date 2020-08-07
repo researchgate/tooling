@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@3.0.0...@researchgate/eslint-config-base@3.0.1) (2020-08-07)
+
+### Bug Fixes
+
+- **spire:** Move eslint ts config to spire config
+  ([08bdebd](https://github.com/researchgate/tooling/commit/08bdebdea835830c2552a77b857068d3074724e7))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [3.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@2.0.2...@researchgate/eslint-config-base@3.0.0) (2020-08-07)
 
 ### Bug Fixes

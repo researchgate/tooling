@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.4](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.3...@researchgate/spire-config@5.0.4) (2020-08-07)
+
+### Bug Fixes
+
+- **spire:** Move eslint ts config to spire config
+  ([08bdebd](https://github.com/researchgate/tooling/commit/08bdebdea835830c2552a77b857068d3074724e7))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [5.0.3](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.2...@researchgate/spire-config@5.0.3) (2020-08-07)
 
 ### Bug Fixes

@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/eslint-config-react-typescript",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "ResearchGate's ESLint config for React with Typescript",
   "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
   "repository": "researchgate/tooling",
@@ -19,7 +19,7 @@
     "typescript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-react": "^2.0.5",
+    "@researchgate/eslint-config-react": "^2.0.6",
     "@researchgate/eslint-settings-typescript": "^1.6.1"
   }
 }
