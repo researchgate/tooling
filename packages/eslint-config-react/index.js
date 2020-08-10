@@ -43,4 +43,12 @@ module.exports = {
     commonjs: true,
     'shared-node-browser': true,
   },
+  overrides: [
+    {
+      files: ['**/.eslintrc.js', '**/*.config.js'],
+      parserOptions: {
+        sourceType: 'script',
+      },
+    },
+  ],
 };

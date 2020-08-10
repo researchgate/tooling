@@ -7,4 +7,12 @@ module.exports = {
     'node/no-unsupported-features': 'off',
     strict: ['error', 'never'],
   },
+  overrides: [
+    {
+      files: ['**/.eslintrc.js', '**/*.config.js'],
+      parserOptions: {
+        sourceType: 'script',
+      },
+    },
+  ],
 };

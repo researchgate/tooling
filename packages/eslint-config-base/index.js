@@ -139,11 +139,5 @@ module.exports = {
         node: true,
       },
     },
-    {
-      files: ['**/.eslintrc.js', '**/*.config.js'],
-      parserOptions: {
-        sourceType: 'script',
-      },
-    },
   ],
 };
