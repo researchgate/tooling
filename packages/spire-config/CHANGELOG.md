@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.5](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.4...@researchgate/spire-config@5.0.5) (2020-08-10)
+
+**Note:** Version bump only for package @researchgate/spire-config
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [5.0.4](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.3...@researchgate/spire-config@5.0.4) (2020-08-07)
 
 ### Bug Fixes
