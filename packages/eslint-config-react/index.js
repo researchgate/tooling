@@ -46,6 +46,9 @@ module.exports = {
   overrides: [
     {
       files: ['**/.eslintrc.js', '**/*.config.js'],
+      rules: {
+        strict: ['error', 'global'],
+      },
       parserOptions: {
         sourceType: 'script',
       },
