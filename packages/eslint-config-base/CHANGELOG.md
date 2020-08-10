@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.3](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@3.0.2...@researchgate/eslint-config-base@3.0.3) (2020-08-10)
+
+### Bug Fixes
+
+- **eslint:** Fix script sourceType for config files
+  ([db39b92](https://github.com/researchgate/tooling/commit/db39b925a0213d373a7202c47d4392a90c1980c7))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [3.0.2](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@3.0.1...@researchgate/eslint-config-base@3.0.2) (2020-08-10)
 
 ### Bug Fixes

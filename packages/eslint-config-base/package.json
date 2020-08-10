@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/eslint-config-base",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Base ESlint config for ResearchGate's projects",
   "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
   "repository": "researchgate/tooling",
