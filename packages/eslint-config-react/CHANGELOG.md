@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.9](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@2.0.8...@researchgate/eslint-config-react@2.0.9) (2020-08-10)
+
+### Bug Fixes
+
+- **eslint:** fix strict rule for config files
+  ([a26a3d2](https://github.com/researchgate/tooling/commit/a26a3d270666c69a924f65945c2b768b20fe2422))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.8](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react@2.0.7...@researchgate/eslint-config-react@2.0.8) (2020-08-10)
 
 ### Bug Fixes
