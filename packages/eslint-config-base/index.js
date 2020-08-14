@@ -133,6 +133,9 @@ module.exports = {
   overrides: [
     {
       files: ['**/*.spec.js', '**/*.test.js'],
+      parserOptions: {
+        sourceType: 'module',
+      },
       env: {
         jest: true,
         es6: true,
