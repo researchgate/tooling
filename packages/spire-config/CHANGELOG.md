@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.1](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@6.0.0...@researchgate/spire-config@6.0.1) (2020-08-17)
+
+### Bug Fixes
+
+- **spire-config:** Fix wrong config
+  ([0bd3802](https://github.com/researchgate/tooling/commit/0bd38029b581ab4806d8eccb35a3eaf52235f6cf))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [6.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.7...@researchgate/spire-config@6.0.0) (2020-08-17)
 
 ### Features
