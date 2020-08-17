@@ -2,5 +2,5 @@
 
 module.exports = {
   extends: `@researchgate/eslint-config-react`,
-  parser: 'babel-eslint',
+  parser: '@babel/eslint-parser',
 };
