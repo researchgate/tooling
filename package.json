@@ -10,11 +10,19 @@
   },
   "devDependencies": {
     "@researchgate/prettier-config": "^1.2.0",
-    "spire": "3.0.2",
+    "@researchgate/spire-config": "^5.0.7",
+    "spire": "3.1.0",
     "spire-plugin-lerna-release": "3.0.2"
   },
   "spire": {
-    "extends": "@researchgate/spire-config",
+    "extends": [
+      [
+        "@researchgate/spire-config",
+        {
+          "eslint": "node"
+        }
+      ]
+    ],
     "plugins": [
       [
         "spire-plugin-lerna-release",
