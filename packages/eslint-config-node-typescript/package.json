@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/eslint-config-node-typescript",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "ResearchGate's ESLint config for NodeJS with Typescript",
   "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
   "repository": "researchgate/tooling",
@@ -19,7 +19,7 @@
     "typescript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-node": "^2.0.6",
+    "@researchgate/eslint-config-node": "^2.0.7",
     "@researchgate/eslint-settings-typescript": "^1.6.1"
   }
 }

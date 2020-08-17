@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.7...@researchgate/spire-config@6.0.0) (2020-08-17)
+
+### Features
+
+- **spire-config:** Migrate from babel-eslint to @babel/eslint-parser
+  ([739a33a](https://github.com/researchgate/tooling/commit/739a33aa421ca971398f40222cfcb46095ca2248))
+
+### BREAKING CHANGES
+
+- **spire-config:** A babel config file is required for the babel and react
+  configs
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [5.0.7](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@5.0.6...@researchgate/spire-config@5.0.7) (2020-08-10)
 
 **Note:** Version bump only for package @researchgate/spire-config

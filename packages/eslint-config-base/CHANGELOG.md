@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.4](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@3.0.3...@researchgate/eslint-config-base@3.0.4) (2020-08-17)
+
+### Bug Fixes
+
+- **eslint:** Tests are usually modules in jest
+  ([058a33e](https://github.com/researchgate/tooling/commit/058a33e2e5383c71bff38a6b766222454291ba73))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [3.0.3](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@3.0.2...@researchgate/eslint-config-base@3.0.3) (2020-08-10)
 
 ### Bug Fixes
