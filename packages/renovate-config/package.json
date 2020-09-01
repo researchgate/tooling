@@ -74,8 +74,17 @@
           ]
         },
         {
+          "groupName": "TypeScript types packages",
+          "packagePatterns": [
+            "^@types/"
+          ]
+        },
+        {
           "packageNames": [
             "node"
+          ],
+          "packagePatterns": [
+            "^@types/"
           ],
           "updateTypes": [
             "minor",
