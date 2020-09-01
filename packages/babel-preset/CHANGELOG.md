@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.4](https://github.com/researchgate/tooling/compare/@researchgate/babel-preset@2.0.3...@researchgate/babel-preset@2.0.4) (2020-09-01)
+
+**Note:** Version bump only for package @researchgate/babel-preset
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.3](https://github.com/researchgate/tooling/compare/@researchgate/babel-preset@2.0.2...@researchgate/babel-preset@2.0.3) (2020-08-07)
 
 **Note:** Version bump only for package @researchgate/babel-preset
