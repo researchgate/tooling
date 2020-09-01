@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.7.2...@researchgate/renovate-config@1.8.0) (2020-09-01)
+
+### Features
+
+- Group and automerge Typescript types
+  ([4862cf9](https://github.com/researchgate/tooling/commit/4862cf9dd624ef4efd0be976d15c91e63dd01717))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.7.2](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.7.1...@researchgate/renovate-config@1.7.2) (2020-09-01)
 
 **Note:** Version bump only for package @researchgate/renovate-config
