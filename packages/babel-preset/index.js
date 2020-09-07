@@ -1,18 +1,8 @@
 'use strict';
 
 module.exports = function (context, options = {}) {
-  const env = process.env.BABEL_ENV || process.env.NODE_ENV;
-  if (env !== 'development' && env !== 'test' && env !== 'production') {
-    throw new Error(
-      [
-        'Using `@researchgate/babel-preset` requires that you specify `NODE_ENV` or',
-        '`BABEL_ENV` environment variables. Valid values are "development",',
-        '"test", and "production". Instead, received:',
-        JSON.stringify(env),
-      ].join(' ')
-    );
-  }
-  const type = process.env.BABEL_OUTPUT || (env === 'test' ? 'cjs' : 'esm');
+  const env = process.env.BABEL_ENV || process.env.NODE_ENV || 'development';
+  const type = process.env.BABEL_OUTPUT || (env === 'test' ? 'commonjs' : 'esm');
   if (type !== 'esm' && type !== 'cjs') {
     throw new Error(
       [
