@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.6](https://github.com/researchgate/tooling/compare/@researchgate/babel-preset@2.0.5...@researchgate/babel-preset@2.0.6) (2020-09-07)
+
+### Bug Fixes
+
+- Fix invalid broken output type
+  ([84fbfe9](https://github.com/researchgate/tooling/commit/84fbfe97a0c991eb30911066b3dd509afeb27ffd))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.5](https://github.com/researchgate/tooling/compare/@researchgate/babel-preset@2.0.4...@researchgate/babel-preset@2.0.5) (2020-09-07)
 
 ### Bug Fixes
