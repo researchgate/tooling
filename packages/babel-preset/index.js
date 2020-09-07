@@ -2,8 +2,7 @@
 
 module.exports = function (context, options = {}) {
   const env = process.env.BABEL_ENV || process.env.NODE_ENV || 'development';
-  const type =
-    process.env.BABEL_OUTPUT || (env === 'test' ? 'commonjs' : 'esm');
+  const type = process.env.BABEL_OUTPUT || (env === 'test' ? 'cjs' : 'esm');
   if (type !== 'esm' && type !== 'cjs') {
     throw new Error(
       [
