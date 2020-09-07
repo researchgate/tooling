@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.5](https://github.com/researchgate/tooling/compare/@researchgate/babel-preset@2.0.4...@researchgate/babel-preset@2.0.5) (2020-09-07)
+
+### Bug Fixes
+
+- Remove the check for NODE_ENV
+  ([1ce2956](https://github.com/researchgate/tooling/commit/1ce295690fda3d643bc1332698c8b9a72c66aecb))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.4](https://github.com/researchgate/tooling/compare/@researchgate/babel-preset@2.0.3...@researchgate/babel-preset@2.0.4) (2020-09-01)
 
 **Note:** Version bump only for package @researchgate/babel-preset
