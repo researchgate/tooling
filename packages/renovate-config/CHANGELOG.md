@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.1](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.0...@researchgate/renovate-config@1.8.1) (2020-09-28)
+
+### Bug Fixes
+
+- Add regex manager for docker file
+  ([c7ab830](https://github.com/researchgate/tooling/commit/c7ab8300662bf9155b813168249fff54a5c85a8b))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [1.8.0](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.7.2...@researchgate/renovate-config@1.8.0) (2020-09-01)
 
 ### Features

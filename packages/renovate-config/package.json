@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/renovate-config",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -32,7 +32,9 @@
       },
       "regexManagers": [
         {
-          "fileMatch": ["(^|/)Dockerfile(\\.[^/]+|)$"],
+          "fileMatch": [
+            "(^|/)Dockerfile(\\.[^/]+|)$"
+          ],
           "matchStrings": [
             "datasource=(?<datasource>.*?) depName=(?<depName>.*?)( versioning=(?<versioning>.*?))?\\sENV .*?_VERSION(=|\\s)(?<currentValue>.*)\\s"
           ],
