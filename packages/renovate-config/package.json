@@ -30,6 +30,15 @@
       "engines": {
         "enabled": false
       },
+      "regexManagers": [
+        {
+          "fileMatch": ["(^|/)Dockerfile(\\.[^/]+|)$"],
+          "matchStrings": [
+            "datasource=(?<datasource>.*?) depName=(?<depName>.*?)( versioning=(?<versioning>.*?))?\\sENV .*?_VERSION(=|\\s)(?<currentValue>.*)\\s"
+          ],
+          "versioningTemplate": "{{#if versioning}}{{{versioning}}}{{else}}semver{{/if}}"
+        }
+      ],
       "packageRules": [
         {
           "depTypeList": [
