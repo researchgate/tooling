@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.2](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.1...@researchgate/renovate-config@1.8.2) (2020-09-28)
+
+### Bug Fixes
+
+- Disable major updates for nodejs
+  ([dba5b51](https://github.com/researchgate/tooling/commit/dba5b5115f8b829af8aa38dc50d7f035cbfb106e))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.8.1](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.0...@researchgate/renovate-config@1.8.1) (2020-09-28)
 
 ### Bug Fixes
