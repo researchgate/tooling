@@ -102,6 +102,16 @@
             "patch"
           ],
           "automerge": true
+        },
+        {
+          "packageNames": [
+            "node",
+            "nodejs/node"
+          ],
+          "updateTypes": [
+            "major"
+          ],
+          "enabled": false
         }
       ]
     },
