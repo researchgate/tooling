@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.3](https://github.com/researchgate/tooling/compare/@researchgate/jest-preset-react@1.0.2...@researchgate/jest-preset-react@1.0.3) (2020-10-05)
+
+### Bug Fixes
+
+- **jest:** Configure proper test environment
+  ([1c89c49](https://github.com/researchgate/tooling/commit/1c89c49ecb1cbd38bdf2ae99f998903222238593))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.0.2](https://github.com/researchgate/tooling/compare/@researchgate/jest-preset-react@1.0.1...@researchgate/jest-preset-react@1.0.2) (2020-07-28)
 
 **Note:** Version bump only for package @researchgate/jest-preset-react

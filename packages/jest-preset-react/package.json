@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/jest-preset-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Jest preset for ResearchGate's react projects",
   "author": "Sergey Bekrin <sergey@bekrin.me> (https://bekrin.me)",
   "repository": "researchgate/tooling",
@@ -13,7 +13,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@researchgate/jest-preset-base": "^2.0.0",
+    "@researchgate/jest-preset-base": "^2.0.1",
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.7.1",
     "jest-enzyme": "^7.0.1",
