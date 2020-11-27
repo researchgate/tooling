@@ -1,0 +1,23 @@
+{
+  "name": "@researchgate/eslint-plugin",
+  "version": "0.1.0",
+  "description": "ResearchGate's ESLint plugin",
+  "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
+  "repository": "researchgate/tooling",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.15.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "plugin",
+    "researchgate"
+  ]
+}
