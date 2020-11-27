@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.3](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.2...@researchgate/renovate-config@1.8.3) (2020-11-27)
+
+### Bug Fixes
+
+- Support docker files with quotes in version
+  ([c30359c](https://github.com/researchgate/tooling/commit/c30359c693003b2f4eaeabb196b99ea16615968a))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.8.2](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.1...@researchgate/renovate-config@1.8.2) (2020-09-28)
 
 ### Bug Fixes
