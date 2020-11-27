@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.5](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.4...@researchgate/renovate-config@1.8.5) (2020-11-27)
+
+### Bug Fixes
+
+- Fix regex
+  ([853e589](https://github.com/researchgate/tooling/commit/853e589efa8094c61f017f90aca97179ad32489d))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.8.4](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.3...@researchgate/renovate-config@1.8.4) (2020-11-27)
 
 ### Bug Fixes
