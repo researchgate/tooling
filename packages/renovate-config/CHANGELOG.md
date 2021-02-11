@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.8](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.7...@researchgate/renovate-config@1.8.8) (2021-02-11)
+
+### Bug Fixes
+
+- **renovate:** Add playwright monorepo grouping
+  ([4a9e1da](https://github.com/researchgate/tooling/commit/4a9e1daf8be9cf86087bb1a4120101cfc9c5c192))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.8.7](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.6...@researchgate/renovate-config@1.8.7) (2020-11-27)
 
 ### Bug Fixes
