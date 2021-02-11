@@ -92,6 +92,12 @@
           ]
         },
         {
+          "groupName": "playwright monorepo",
+          "packagePatterns": [
+            "^playwright-"
+          ]
+        },
+        {
           "packageNames": [
             "node"
           ],
