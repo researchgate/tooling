@@ -2068,7 +2068,7 @@
     "@octokit/openapi-types" "^3.2.0"
     "@types/node" ">= 8"
 
-"@researchgate/spire-config@^5.0.7":
+"@researchgate/spire-config@5.0.7":
   version "5.0.7"
   resolved "https://registry.yarnpkg.com/@researchgate/spire-config/-/spire-config-5.0.7.tgz#547e8fc4f4e98c126a023b0d453a36e3eca98f14"
   integrity sha512-UiethlXGw/wfkcydGZPb9ngD7PjvntYCP3uwf+RvlAWAazyibgrPApai6sKiV3lH6mKFocB1FPqk9BYbi5bh7w==
