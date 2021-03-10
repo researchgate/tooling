@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  extends: ['@researchgate/eslint-config-base', 'prettier/react'],
+  extends: ['@researchgate/eslint-config-base'],
   parserOptions: { sourceType: 'module' },
   plugins: ['react', 'react-hooks'],
   rules: {

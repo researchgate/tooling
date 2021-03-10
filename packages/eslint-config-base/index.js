@@ -5,8 +5,8 @@ module.exports = {
     ecmaVersion: 9,
     sourceType: 'script',
   },
-  extends: ['eslint:recommended', 'prettier'],
-  plugins: ['prettier', 'import'],
+  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
+  plugins: ['import'],
   settings: {
     'import/extensions': ['.js'],
   },
@@ -105,10 +105,8 @@ module.exports = {
     'no-var': 'error',
     'no-with': 'error',
     'one-var': ['error', 'never'],
-    'prefer-arrow-callback': 'error',
     'prefer-const': 'error',
     'prefer-template': 'error',
-    'prettier/prettier': 'error',
     'spaced-comment': [
       'error',
       'always',
