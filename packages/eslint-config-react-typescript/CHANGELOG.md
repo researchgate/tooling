@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react-typescript@2.0.10...@researchgate/eslint-config-react-typescript@3.0.0) (2021-03-10)
+
+**Note:** Version bump only for package
+@researchgate/eslint-config-react-typescript
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.0.10](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-react-typescript@2.0.9...@researchgate/eslint-config-react-typescript@2.0.10) (2020-08-17)
 
 **Note:** Version bump only for package

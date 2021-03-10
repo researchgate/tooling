@@ -1,6 +1,6 @@
 {
   "name": "@researchgate/eslint-config-react",
-  "version": "2.0.10",
+  "version": "3.0.0",
   "description": "ResearchGate's ESLint config for React",
   "author": "Daniel Tschinder <daniel.tschinder@researchgate.net>",
   "repository": "researchgate/tooling",
@@ -19,7 +19,7 @@
     "javascript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-base": "^3.0.4"
+    "@researchgate/eslint-config-base": "^4.0.0"
   },
   "peerDependencies": {
     "eslint-config-prettier": "^8.0.0",

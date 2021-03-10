@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@3.0.4...@researchgate/eslint-config-base@4.0.0) (2021-03-10)
+
+### Features
+
+- Update prettier eslint config
+  ([ba7d2c4](https://github.com/researchgate/tooling/commit/ba7d2c4f0321bb39cfadf2ddb6455e77ce0f761e))
+
+### BREAKING CHANGES
+
+- Requires new version of prettier config and plugin
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [3.0.4](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-base@3.0.3...@researchgate/eslint-config-base@3.0.4) (2020-08-17)
 
 ### Bug Fixes

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [7.0.0](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@6.0.2...@researchgate/spire-config@7.0.0) (2021-03-10)
+
+### Features
+
+- Update prettier eslint config
+  ([ba7d2c4](https://github.com/researchgate/tooling/commit/ba7d2c4f0321bb39cfadf2ddb6455e77ce0f761e))
+
+### BREAKING CHANGES
+
+- Requires new version of prettier config and plugin
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [6.0.2](https://github.com/researchgate/tooling/compare/@researchgate/spire-config@6.0.1...@researchgate/spire-config@6.0.2) (2020-10-05)
 
 **Note:** Version bump only for package @researchgate/spire-config

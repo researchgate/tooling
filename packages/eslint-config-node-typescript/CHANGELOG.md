@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node-typescript@1.1.6...@researchgate/eslint-config-node-typescript@2.0.0) (2021-03-10)
+
+**Note:** Version bump only for package
+@researchgate/eslint-config-node-typescript
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [1.1.6](https://github.com/researchgate/tooling/compare/@researchgate/eslint-config-node-typescript@1.1.5...@researchgate/eslint-config-node-typescript@1.1.6) (2020-08-17)
 
 ### Bug Fixes
