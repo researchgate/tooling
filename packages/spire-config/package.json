@@ -27,7 +27,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.0.0",
     "prettier": "^2.0.0",
     "spire-plugin-yarn": "^3.0.2",
