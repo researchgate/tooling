@@ -11,6 +11,9 @@
         "config:base"
       ],
       "timezone": "Europe/Berlin",
+      "labels": [
+        "dependencies"
+      ],
       "lockFileMaintenance": {
         "enabled": true,
         "extends": [
