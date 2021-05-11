@@ -13,21 +13,20 @@
       "timezone": "Europe/Berlin",
       "lockFileMaintenance": {
         "enabled": true,
-        "extends": "schedule:weekly",
+        "extends": [
+          "schedule:weekly"
+        ],
         "semanticCommitType": "chore",
         "automerge": true
       },
       "postUpdateOptions": [
         "yarnDedupeHighest"
       ],
-      "semanticCommits": true,
+      "semanticCommits": "enabled",
       "semanticCommitType": "fix",
       "rangeStrategy": "replace",
       "automergeType": "branch",
       "php": {
-        "enabled": false
-      },
-      "engines": {
         "enabled": false
       },
       "regexManagers": [
@@ -44,81 +43,87 @@
       ],
       "packageRules": [
         {
-          "depTypeList": [
-            "devDependencies"
-          ],
           "semanticCommitType": "chore",
-          "rangeStrategy": "pin"
+          "rangeStrategy": "pin",
+          "matchDepTypes": [
+            "devDependencies"
+          ]
         },
         {
-          "depTypeList": [
+          "automerge": true,
+          "matchDepTypes": [
             "devDependencies"
           ],
-          "updateTypes": [
+          "matchUpdateTypes": [
             "minor",
             "patch"
-          ],
-          "automerge": true
+          ]
         },
         {
-          "depTypeList": [
+          "rangeStrategy": "widen",
+          "matchDepTypes": [
             "peerDependencies"
-          ],
-          "rangeStrategy": "widen"
+          ]
         },
         {
           "groupName": "spire monorepo",
-          "sourceUrlPrefixes": [
+          "matchSourceUrlPrefixes": [
             "https://github.com/researchgate/spire"
           ]
         },
         {
           "groupName": "spire monorepo",
-          "packageNames": [
+          "matchPackageNames": [
             "@researchgate/spire-config"
           ]
         },
         {
           "groupName": "eslint config monorepo",
-          "packagePatterns": [
+          "matchPackagePatterns": [
             "^@researchgate/eslint-config",
             "^@researchgate/eslint-settings"
           ]
         },
         {
           "groupName": "TypeScript types packages",
-          "packagePatterns": [
+          "matchPackagePatterns": [
             "^@types/"
           ]
         },
         {
           "groupName": "playwright monorepo",
-          "packagePatterns": [
+          "matchPackagePatterns": [
             "^playwright-"
           ]
         },
         {
-          "packageNames": [
+          "automerge": true,
+          "matchPackageNames": [
             "node"
           ],
-          "packagePatterns": [
+          "matchPackagePatterns": [
             "^@types/"
           ],
-          "updateTypes": [
+          "matchUpdateTypes": [
             "minor",
             "patch"
-          ],
-          "automerge": true
+          ]
         },
         {
-          "packageNames": [
+          "enabled": false,
+          "matchPackageNames": [
             "node",
             "nodejs/node"
           ],
-          "updateTypes": [
+          "matchUpdateTypes": [
             "major"
-          ],
-          "enabled": false
+          ]
+        },
+        {
+          "enabled": false,
+          "matchDepTypes": [
+            "engines"
+          ]
         }
       ]
     },
