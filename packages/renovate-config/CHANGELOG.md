@@ -1,18 +1,5 @@
 # Change Log
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-## [1.8.9](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.8...@researchgate/renovate-config@1.8.9) (2021-05-11)
-
-**Note:** Version bump only for package @researchgate/renovate-config
-
-
-
-
-
-# Change Log
-
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
