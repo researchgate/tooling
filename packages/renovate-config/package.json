@@ -10,6 +10,10 @@
       "extends": [
         "config:base"
       ],
+      "baseBranches": [
+        "main",
+        "master"
+      ],
       "timezone": "Europe/Berlin",
       "labels": [
         "dependencies"
