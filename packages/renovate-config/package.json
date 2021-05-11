@@ -25,6 +25,7 @@
       "postUpdateOptions": [
         "yarnDedupeHighest"
       ],
+      "rebaseWhen": "behind-base-branch",
       "semanticCommits": "enabled",
       "semanticCommitType": "fix",
       "rangeStrategy": "replace",
