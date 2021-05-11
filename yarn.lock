@@ -2230,6 +2230,48 @@
   dependencies:
     "@researchgate/eslint-config-base" "^3.0.4"
 
+"@researchgate/eslint-config-base@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@researchgate/eslint-config-base/-/eslint-config-base-3.0.4.tgz#bfbf453c2cba2542b62ace6aa17be7ce89022b03"
+  integrity sha512-8j+usD5M4Bb5jJrGf22IpTlx9kFr9E2YhuYli5XsO76f6GUukaRbNlKinkZkZyIA5/Oa1CZQsZG4+IKxMR2l4g==
+
+"@researchgate/eslint-config-node-babel@^2.0.7":
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/@researchgate/eslint-config-node-babel/-/eslint-config-node-babel-2.0.8.tgz#ecc8f30a7a90f34a24011053f57cdb0b144dca70"
+  integrity sha512-TH7tVTxvnGvtjwSD/6h2kiq23Lu1+CPx9d0WALstxJXaA4O/PZanRSGu0pQKuPS6VaQSe3pE+L8awdGl68K7hQ==
+  dependencies:
+    "@researchgate/eslint-config-node" "^2.0.7"
+
+"@researchgate/eslint-config-node-typescript@^1.1.5":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@researchgate/eslint-config-node-typescript/-/eslint-config-node-typescript-1.1.6.tgz#3333419288edd73479bc83fb1034f8af97519c8b"
+  integrity sha512-7ON+dz6xD4Bbu9Y6ekBeeTOh/rfZamdO4ndPjcytCXaysj0GQU5Zq/GCdGBCp3R43v8knj+hbvpWWfvw10OUVw==
+  dependencies:
+    "@researchgate/eslint-config-node" "^2.0.7"
+    "@researchgate/eslint-settings-typescript" "^1.6.1"
+
+"@researchgate/eslint-config-node@^2.0.6", "@researchgate/eslint-config-node@^2.0.7":
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/@researchgate/eslint-config-node/-/eslint-config-node-2.0.7.tgz#7e9cb63d90a5f7bafe8fed3edd353e2a63297152"
+  integrity sha512-7ybWmt11mcOhJTITYW0F6ifJL7/DKPiVXBQm92tZ+F95RqorNO7tkWyWtmLQ3dgRtuZMi4gLeOfKponFL40P5w==
+  dependencies:
+    "@researchgate/eslint-config-base" "^3.0.4"
+
+"@researchgate/eslint-config-react-typescript@^2.0.9":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@researchgate/eslint-config-react-typescript/-/eslint-config-react-typescript-2.0.10.tgz#2d9aa393df51a3b112019e1fb28bc9e10e912cbc"
+  integrity sha512-rlKW+Vi9tOALfK3z/Y6t3bvl0pB8Cc76YfKM0RMyKuTZCQ7FRPJ6kgvBm0TheEsCm9ycYh9jm+VkXUdamliXew==
+  dependencies:
+    "@researchgate/eslint-config-react" "^2.0.10"
+    "@researchgate/eslint-settings-typescript" "^1.6.1"
+
+"@researchgate/eslint-config-react@^2.0.10", "@researchgate/eslint-config-react@^2.0.9":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@researchgate/eslint-config-react/-/eslint-config-react-2.0.10.tgz#9c1cb89f3118b8b721b131faf605fd7566926c7e"
+  integrity sha512-gJ3jaFIvmUqNOw1CmUg8SYSLJSnX+haBhJC4o4HGO65CP8C2F/5ANTEI6YdA0LN2MgRXd0lMHEHLFzh4hCt4KQ==
+  dependencies:
+    "@researchgate/eslint-config-base" "^3.0.4"
+
 "@researchgate/spire-config@^5.0.7":
   version "5.0.7"
   resolved "https://registry.yarnpkg.com/@researchgate/spire-config/-/spire-config-5.0.7.tgz#547e8fc4f4e98c126a023b0d453a36e3eca98f14"
