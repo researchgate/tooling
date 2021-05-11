@@ -1,5 +1,21 @@
 # Change Log
 
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.8.9](https://github.com/researchgate/tooling/compare/@researchgate/renovate-config@1.8.8...@researchgate/renovate-config@1.8.9) (2021-05-11)
+
+
+### Reverts
+
+* Revert "Publish" ([45ab732](https://github.com/researchgate/tooling/commit/45ab7322af46981831b0b6c0644d74771f2d2241))
+
+
+
+
+
+# Change Log
+
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
