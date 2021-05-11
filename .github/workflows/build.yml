@@ -69,9 +69,9 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com 
-          
+
       - name: Release
         run: yarn release --yes
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
