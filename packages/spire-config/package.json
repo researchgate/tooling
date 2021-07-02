@@ -30,10 +30,10 @@
     "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-react-hooks": "^4.0.0",
     "prettier": "^2.0.0",
-    "spire-plugin-yarn": "^3.0.2",
+    "spire-plugin-yarn": "^4.0.0",
     "typescript": "^3.9.7"
   },
   "peerDependencies": {
-    "spire": "^3.0.0"
+    "spire": "^3.0.0 || ^4.0.0"
   }
 }
