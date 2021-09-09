@@ -13,6 +13,6 @@
     "access": "public"
   },
   "peerDependencies": {
-    "spire-plugin-jest": "^3.0.0"
+    "spire-plugin-jest": "^3.0.0 || ^4.0.0"
   }
 }
