@@ -7,12 +7,12 @@
   "license": "MIT",
   "main": "./jest-preset.js",
   "engines": {
-    "node": ">=10.18.0"
+    "node": ">=12.20.0"
   },
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {
-    "spire-plugin-jest": "^3.0.0"
+    "spire-plugin-jest": "^5.0.0"
   }
 }
