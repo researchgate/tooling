@@ -19,6 +19,6 @@
     "javascript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-node": "^3.0.0"
+    "@researchgate/eslint-config-node": "3.0.0"
   }
 }

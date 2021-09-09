@@ -19,7 +19,7 @@
     "typescript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-react": "^3.0.0",
-    "@researchgate/eslint-settings-typescript": "^1.6.1"
+    "@researchgate/eslint-config-react": "3.0.0",
+    "@researchgate/eslint-settings-typescript": "1.6.1"
   }
 }

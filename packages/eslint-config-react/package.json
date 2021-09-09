@@ -19,7 +19,7 @@
     "javascript"
   ],
   "dependencies": {
-    "@researchgate/eslint-config-base": "^4.0.0"
+    "@researchgate/eslint-config-base": "4.0.0"
   },
   "peerDependencies": {
     "eslint-config-prettier": "^8.0.0",
