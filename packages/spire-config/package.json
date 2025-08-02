@@ -21,7 +21,7 @@
     "@researchgate/eslint-config-react-typescript": "3.0.0",
     "@researchgate/jest-preset-react": "1.0.3",
     "@researchgate/prettier-config": "1.3.2",
-    "@typescript-eslint/parser": "4.31.0",
+    "@typescript-eslint/parser": "4.33.0",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-import": "2.24.2",
