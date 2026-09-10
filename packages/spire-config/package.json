@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@babel/core": "7.15.5",
-    "@babel/eslint-parser": "7.15.4",
+    "@babel/eslint-parser": "7.29.7",
     "@researchgate/eslint-config-node": "3.0.0",
     "@researchgate/eslint-config-node-babel": "3.0.0",
     "@researchgate/eslint-config-node-typescript": "2.0.0",
